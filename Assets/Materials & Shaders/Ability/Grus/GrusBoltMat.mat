@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrusBoltMat
+  m_Shader: {fileID: -6465566751694194690, guid: 200e1d7023ab577478c0efb28bfe46cb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_191a80d7929e4b3bbc8bdeafded1bbca: 3.06
+    - Vector1_280ca718d4304a48880bbe7c840ca1d9: 0
+    - Vector1_858cc678a1d64e8395d70f076c536f04: 0
+    m_Colors:
+    - Color_384127fd8cc84a8082e3f27c9e476a5c: {r: 11.19728, g: 32.01722, b: 33.41688, a: 0}
+    - Color_cec53842a573407c922433a23cca4db5: {r: 3.9999995, g: 3.9999995, b: 3.9999995, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 800d4c2c4272b644895043e994ce5f7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - config: {fileID: 11400000, guid: dcd7f7b988c2ad14ba1ef5f3b18ed38a, type: 2}
+  - navMeshSurface: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  - floorPrefab: {instanceID: 0}
+  - meshGenerator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

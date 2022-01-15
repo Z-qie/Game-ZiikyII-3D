@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DashThunderMat
+  m_Shader: {fileID: -6465566751694194690, guid: a6f4d236842a4ae4fa7939c92167cf6b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_5e2cb60c07e542bf8fa5313235eaff31: 0
+    - Vector1_6d1d48246f5c4f0195440d15e2482516: 0
+    m_Colors:
+    - Color_61c3605915134d2082978ce2e4df3ca4: {r: 0.43120328, g: 0.9622642, b: 0.9435209, a: 0}
+    - Color_cd94ba72d3764f1a86bcc1a1f68d8f5f: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 0}
+  m_BuildTextureStacks: []

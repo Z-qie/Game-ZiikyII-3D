@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ColumbaMat
+  m_Shader: {fileID: -6465566751694194690, guid: 39f85d1542e6c3c46b72fd99fb796c8a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_237fc20cfea14907af4a1dee926ef2e2: 0
+    - Vector1_6d73a0053d8e4d5eb9a2ffb8f4144be9: 0
+    m_Colors:
+    - Color_56b0bc744f5c4533b526057b6ed1635a: {r: 4, g: 4, b: 4, a: 0}
+    - Color_b0bdd319c754487391ed23c9aad372e1: {r: 1.049788, g: 2.342685, b: 2.218068, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8386a6fa117f31b4a82f0594147ce840, type: 3}
+  m_Name: Lepus
+  m_EditorClassIdentifier: 
+  hasLearned: 1
+  abilityCode: 0
+  description: 
+  icon: {fileID: 0}
+  preparingTime: 0
+  activeTime: 0
+  postActiveTime: 0
+  coolDownTime: 0.5
+  currentPreparingTime: 0
+  currentActiveTime: 0
+  currentPostActiveTime: 0
+  currentCoolDownTime: -0.0067872005
+  flyingSpeed: 15
+  damage: 100

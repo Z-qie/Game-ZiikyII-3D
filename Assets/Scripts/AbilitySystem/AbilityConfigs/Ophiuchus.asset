@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97fa30ec1b601d6438c07caa550341c1, type: 3}
+  m_Name: Ophiuchus
+  m_EditorClassIdentifier: 
+  hasLearned: 1
+  equipped: 1
+  abilityCode: 4
+  inputAction:
+    m_Name: FirstSpell
+    m_Type: 1
+    m_ExpectedControlType: Button
+    m_Id: 46b81cf0-5b7f-48c6-92cf-c550ba8442c7
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+  description: 
+  icon: {fileID: 0}
+  preparingTime: 1
+  activeTime: 1
+  postActiveTime: 0
+  coolDownTime: 0
+  currentPreparingTime: -0.00011255499
+  currentActiveTime: 1
+  currentPostActiveTime: 0
+  currentCoolDownTime: 0
+  attackRadius: 50
+  numBolts: 15
+  damagePerBolt: 0
