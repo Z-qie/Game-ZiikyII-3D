@@ -1,4 +1,6 @@
 # Game-ZiikyII-3D
+![pic](images/pic_01.png)
+
 
 # Demo Video
 
